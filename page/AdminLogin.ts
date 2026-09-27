@@ -13,6 +13,7 @@ export class AdminLogin{
         this.UserName=page.locator('#username').first()
         this.Password=page.locator('#password').first()
         this.Login=page.locator('#btnsubmit').first()
+        
     }
     //method for lunch url
     async ERPUrl(url:string){
