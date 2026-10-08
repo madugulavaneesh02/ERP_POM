@@ -1,0 +1,12 @@
+201
+Created
+Created User with ID: 1025
+Created User with ID: vs@test.com
+-----------------------------------------
+{
+  id: 1025,
+  name: 'Naveen Kumar',
+  email: 'vs@test.com',
+  gender: 'male',
+  status: 'active'
+}

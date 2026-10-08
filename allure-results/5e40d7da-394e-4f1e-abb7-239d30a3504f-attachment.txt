@@ -1,0 +1,10 @@
+Status: 200
+Status Text: OK
+Response Body: {"id":1022,"name":"Vamsi","email":"vs1529@test.com","gender":"male","status":"active"}
+Updated user details: {
+  id: 1022,
+  name: 'Vamsi',
+  email: 'vs1529@test.com',
+  gender: 'male',
+  status: 'active'
+}
